@@ -1,4 +1,4 @@
-;;; A simple chatbot (152)
+;;; A simple chatbot
 ;;; Author:    Naomi Campbell
 
 ;;; We'll use the random function implemented in Racket
